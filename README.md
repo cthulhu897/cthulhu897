@@ -1,4 +1,4 @@
-# Hello, I'm Francisco Díaz! 👋
+# Hello!
 
 I'm a passionate Security Consultant specializing in Red Teaming and Pentesting. With a strong focus on advanced threat emulation, I dedicate myself to identifying and exploiting vulnerabilities in critical infrastructures.
 
@@ -13,26 +13,17 @@ I'm a passionate Security Consultant specializing in Red Teaming and Pentesting.
 ## 🔭 I’m currently working on
 - Developing custom tools for advanced threat emulation and offensive security.
 - Automating penetration testing processes to increase efficiency and accuracy.
-- Enhancing security protocols and infrastructure for various clients.
 
 ## 🌱 I’m currently learning
 - Advanced cloud security techniques and infrastructure as code (IaC) with Terraform and Ansible.
-- Rust programming language for secure and efficient exploit development.
-- Enhancing my knowledge in malware analysis and reverse engineering.
+- Go and Rust programming language for secure and efficient exploit development.
+- Enhancing my knowledge in malware development analysis and reverse engineering.
+- Enhancing my knowledge in implant development in Red Team Operations.
 
 ## 👯 I’m looking to collaborate on
 - Open-source security tools that can help the community in simulating real-world threats.
 - Projects that involve advanced offensive security and Red Teaming engagements.
 - Workshops and training sessions related to cybersecurity and ethical hacking.
-
-## 🤔 I’m looking for help with
-- Improving automated detection and response mechanisms in complex security environments.
-- Exploring innovative ways to simulate emerging cyber threats in diverse infrastructures.
-
-## 💬 Ask me about
-- Offensive security strategies, Red Team operations, and threat emulation.
-- Development of custom security tools and exploit development.
-- Cloud security best practices and DevOps integration.
 
 ## 📫 How to reach me
 - LinkedIn: [linkedin.com/in/cthulhu897](https://www.linkedin.com/in/cthulhu897)
@@ -58,6 +49,5 @@ I'm a passionate Security Consultant specializing in Red Teaming and Pentesting.
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud)
 
-## 📊 GitHub Stats
 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=cthulhu897&show_icons=true&theme=radical)
+[](Yeah this is AI generated, im too lazy to write a better version right now)
