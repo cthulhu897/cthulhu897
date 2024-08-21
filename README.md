@@ -60,4 +60,4 @@ I'm a passionate Security Consultant specializing in Red Teaming and Pentesting.
 
 ## 📊 GitHub Stats
 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=cthulhu897&show_icons=true&theme=radical)
